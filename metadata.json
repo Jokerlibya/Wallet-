@@ -1,0 +1,6 @@
+{
+  "name": "Binance Withdrawal Status",
+  "description": "A withdrawal status landing page mimicking the Binance interface for a 1500 USDT transaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
